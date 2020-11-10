@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+  }
+ .first-block{
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 20px;
+}
+.second-block{
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 15px;
+}
